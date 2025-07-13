@@ -1,4 +1,3 @@
-
 const { cmd } = require('../command');
 const axios = require('axios');
 
@@ -90,5 +89,4 @@ async (conn, mek, m, { from, args, q, reply, react }) => {
 });
 
 
-
-          
+      
