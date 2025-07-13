@@ -193,5 +193,5 @@ JOINING OUR OFFICIAL WHATSAPP GROUP AND CHANNEL. YOU CAN ALSO CONTACT THE OWNER 
 
 
 
-## ‎![FATIMA-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+𝐸𝑅𝐹𝒜𝒩+𝒜𝐻𝑀𝒜𝒟+OWNER+(+923155641171))
+## ‎![FATIMA-MD](https://readme-typing-svg.demolab.com?font=Roboto&size=26&weight=600&pause=1000&color=FF69B4&center=true&vCenter=true&width=600&lines=+DUA+FATIMA+OWNER+(+923155641171))
 ```
