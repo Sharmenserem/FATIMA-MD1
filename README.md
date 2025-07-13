@@ -43,15 +43,21 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 `IF YOU DON'T HAVE YOUR SESSION_ID SO U CAN GET IT CLICK ON SESSION_ID BUTTON AND PASTE YOUR NUMBER With COUNTRY CODE EXAMPLE:92315xxxxxx THEN YOU CAN GET YOUR SESSION_ID ✠`
 
+> **1. QR CODE SESSION ID**
 
-> **1. PAIR CODE SESSION ID**
+<a href='https://dua-pair-3b063556e9ea.herokuapp.com/qr' target="_blank">
+  <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
+</a>
+<br>
+
+> **2. PAIR CODE SESSION ID**
 
 <a href='https://dua-pair-3b063556e9ea.herokuapp.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
-> **2. PAIR CODE SESSION ID**
+> **3. PAIR CODE SESSION ID**
 
 <a href='https://stark-dua-pair.onrender.com/' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
