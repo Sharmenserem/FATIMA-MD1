@@ -1,6 +1,6 @@
-name: FATIMA-MD
+name: DARKZONE-MD
 services:
-  - name: FATIMA-MD-service
+  - name: DARKZONE-MD-service
     type: web
     ports:
       - 5000
