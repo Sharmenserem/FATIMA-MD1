@@ -1,6 +1,6 @@
 {
   "name": "FATIMA-MD",
-  "description": "Javascript WhatsApp bot made by DUA FATIMA",
+  "description": "Javascript WhatsApp bot made by 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟 , DUA-FATIMA",
   "logo": "https://files.catbox.moe/8cb9h0.jpg",
   "keywords": ["FATIMA-MD"],
   "success_url": "/",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "FATIMA"
+      "value": "𝐸𝑅𝐹𝒜𝒩"
     }, 
       
     "PREFIX": {
@@ -78,20 +78,20 @@
     "AUTO_STATUS_MSG": {
       "description": "Type custom message on status reply",
       "required": true,
-      "value": "*SEEN YOUR STATUS BY FATIMA-MD 🖤*"
+      "value": "*SEEN YOUR STATUS BY DARKZONE-MD 🖤*"
    
      }, 
     
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "FATIMA"
+      "value": "DUA-FATIMA "
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "923155641171"
+      "value": "+92 315 5641171"
 
     }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CREATER DUA FATIMA*"
+      "value": "*DUA , 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*"
     },
 
       "DELETE_LINKS": {
