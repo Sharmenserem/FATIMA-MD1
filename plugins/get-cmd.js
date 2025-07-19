@@ -39,19 +39,19 @@ ${truncatedCode}
 \`\`\`
 ╰──────────⊷  
 ⚡ Full file sent below 📂  
-Powered By *𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟* 💜`;
+Powered By *Dua Fatima* 💜`;
 
         // Send image with truncated source code
         await conn.sendMessage(from, { 
-            image: { url: `https://files.catbox.moe/r2ncqh` },  // Image URL
+            image: { url: `https://files.catbox.moe/27sdkb.jpg` },  // Image URL
             caption: formattedCode,
             contextInfo: {
                 mentionedJid: [m.sender],
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363416743041101@newsletter',
-                    newsletterName: '𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟',
+                    newsletterJid: '120363418144382782@newsletter',
+                    newsletterName: 'Dua Fatima',
                     serverMessageId: 143
                 }
             }
