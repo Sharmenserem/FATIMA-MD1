@@ -12,7 +12,7 @@ cmd({
 async (conn, mek, m, { from, reply, args }) => {
     try {
         // Check if URL is provided
-        if (!args) return reply("❌ Please provide a WhatsApp channel URL\nExample: .wstalk https://whatsapp.com/channel/0029VatOy2EAzNc2WcShQw1j");
+        if (!args) return reply("❌ Please provide a WhatsApp channel URL\nExample: .wstalk https://whatsapp.com/channel/0029VbAhxYY90x2vgwhXJV3O");
 
         // Extract channel ID from URL
         const channelId = args.match(/channel\/([0-9A-Za-z]+)/i)?.[1];
