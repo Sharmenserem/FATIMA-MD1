@@ -51,14 +51,14 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 > **2. PAIR CODE SESSION ID**
 
-<a href='https://dua-md-cfcc2aec1e79.herokuapp.com/pair' target="_blank">
+<a href='https://darkzone-m.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-orange?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
 
 > **3. PAIR CODE SESSION ID**
 
-<a href='https://dua-pair-3b063556e9ea.herokuapp.com/' target="_blank">
+<a href='https://darkzone-m.onrender.com' target="_blank">
   <img alt='Pairing Code' src='https://img.shields.io/badge/Get%20Pairing%20Code-darkpink?style=for-the-badge&logo=opencv&logoColor=black'/>
 </a>
 <br> 
