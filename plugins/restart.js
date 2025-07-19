@@ -3,7 +3,7 @@ const { sleep } = require("../lib/functions");
 
 cmd({  
     pattern: "restart",  
-    desc: "Restart DARKZONE-MD",  
+    desc: "Restart FATIMA-MD",  
     category: "owner",  
     filename: __filename  
 },  
