@@ -75,7 +75,7 @@ cmd({
     await reply(
       `🔍 *Image Analysis Results*\n\n` +
       `${scanResponse.data.result}\n\n` +
-      `> 𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟 💜`
+      `> Dua Fatima 💜`
     );
 
   } catch (error) {
