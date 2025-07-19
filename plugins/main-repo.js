@@ -13,7 +13,7 @@ cmd({
     filename: __filename,
 },
 async (conn, mek, m, { from, reply }) => {
-    const githubRepoURL = 'https://github.com/DARKZONE-MD/DARKZONE-MD';
+    const githubRepoURL = 'https://dashboard.heroku.com/new?template=https://github.com/policeduafatima/FATIMA-MD';
 
     try {
         // Extract username and repo name from the URL
@@ -40,8 +40,8 @@ async (conn, mek, m, { from, reply }) => {
                 forwardingScore: 999,
                 isForwarded: true,
                 forwardedNewsletterMessageInfo: {
-                    newsletterJid: '120363416743041101@newsletter',
-                    newsletterName: '𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟',
+                    newsletterJid: '120363418144382782@newsletter',
+                    newsletterName: 'Dua Fatima',
                     serverMessageId: 143
                 }
             }
