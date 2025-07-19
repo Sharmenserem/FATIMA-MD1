@@ -43,7 +43,7 @@ cmd({
     const fileName = contentDisposition ? contentDisposition.match(/filename=(.*)/)[1] : `${repo}.zip`;
 
     // Notify user of the download
-    reply(`📥 *Downloading repository...*\n\n*Repository:* ${username}/${repo}\n*Filename:* ${fileName}\n\n> *𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟*`);
+    reply(`📥 *Downloading repository...*\n\n*Repository:* ${username}/${repo}\n*Filename:* ${fileName}\n\n> *Dua Fatima*`);
 
     // Send the zip file to the user with custom contextInfo
     await conn.sendMessage(from, {
@@ -56,7 +56,7 @@ cmd({
         isForwarded: true,
         forwardedNewsletterMessageInfo: {
           newsletterJid: '120363416743041101@newsletter',
-          newsletterName: '𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟',
+          newsletterName: 'Dua Fatima',
           serverMessageId: 143
         }
       }
