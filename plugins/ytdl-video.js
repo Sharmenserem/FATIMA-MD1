@@ -51,3 +51,4 @@ cmd({
         await reply(`❌ Error: ${error.message}`);
     }
 });
+
