@@ -13,7 +13,7 @@ cmd({
 },
 async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, sender, senderNumber, botNumber2, botNumber, pushname, isMe, isOwner, groupMetadata, groupName, participants, isItzcp, groupAdmins, isBotAdmins, isAdmins, reply}) => {
     try {
-        const city = args.length > 0 ? args.join(" ") : "bhakkar"; // Default to Bhakkar if no city is provided
+        const city = args.length > 0 ? args.join(" ") : "Islamabad"; // Default to Islamabad if no city is provided
         const apiUrl = `https://api.nexoracle.com/islamic/prayer-times?city=${city}`;
 
         const response = await fetch(apiUrl);
@@ -60,8 +60,8 @@ async(conn, mek, m, {from, l, quoted, body, isCmd, command, args, q, isGroup, se
                     forwardingScore: 999,
                     isForwarded: true,
                     forwardedNewsletterMessageInfo: {
-                        newsletterJid: '120363416743041101@newsletter',
-                        newsletterName: '𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟',
+                        newsletterJid: '120363418144382782@newsletter',
+                        newsletterName: 'Dua Fatima',
                         serverMessageId: 143
                     }
                 }
