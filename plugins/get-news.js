@@ -24,7 +24,7 @@ async (conn, mek, m, { from, reply }) => {
 ⚠️ _${article.description}_
 🔗 _${article.url}_
 
-𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟
+Dua Fatima
             `;
 
             console.log('Article URL:', article.urlToImage); // Log image URL for debugging
