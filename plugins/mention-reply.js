@@ -40,12 +40,12 @@ cmd({
           forwardingScore: 999,
           isForwarded: true,
           externalAdReply: {
-            title: config.BOT_NAME || "DARKZONE-MD 🥀",
-            body: config.DESCRIPTION || "𝐸𝑅𝐹𝒜𝒩 𝒜𝐻𝑀𝒜𝒟 🤌💗",
+            title: config.BOT_NAME || "FATIMA-MD 🥀",
+            body: config.DESCRIPTION || "Dua Fatima 🤌💗",
             mediaType: 1,
             renderLargerThumbnail: true,
             thumbnail: thumbnailBuffer,
-            mediaUrl: "https://files.catbox.moe/r2ncqh", // Static image URL
+            mediaUrl: "https://files.catbox.moe/27sdkb.jpg", // Static image URL
             sourceUrl: "https://wa.me/message/2YLWWBAHK7EEH1",
             showAdAttribution: true
           }
