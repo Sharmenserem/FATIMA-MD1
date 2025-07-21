@@ -13,7 +13,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
 
 
   <p align="center">
-<a href="https://github.com/policeduafatima-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/DARKZONE-MD?color=blue&style=flat-square"></a>
+<a href="https://github.com/policeduafatima-ofc/followers"><img title="Followers" src="https://img.shields.io/github/followers/FATIMA-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/policeduafatima/FATIMA-MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/policeduafatima/FATIMA-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/policeduafatima/FATIMA-MD/network/members"><img title="Forks" src="https://img.shields.io/github/forks/policeduafatima/FATIMA-MD?color=blue&style=flat-square"></a>
 <a href="https://github.com/policeduafatima/FATIMA-MD/"><img title="Size" src="https://img.shields.io/github/repo-size/policeduafatima/FATIMA-MD?style=flat-square&color=green"></a>
@@ -27,7 +27,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a href="https://ibb.co/GvT68BsK"><img src="https://files.catbox.moe/bgwzkl.jpg" alt="glow" border="0"></a>
+<a href="https://files.catbox.moe/hc962y.jpg"><img src="https://files.catbox.moe/hc962y.jpg" alt="glow" border="0"></a>
 ***
 
 
