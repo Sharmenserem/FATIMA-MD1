@@ -27,7 +27,7 @@ DONT FORGET TO FORK 🍴 & STAR 🌟 REPO😇
   
 --- 
 
-<a href="https://files.catbox.moe/hc962y.jpg"><img src="https://files.catbox.moe/hc962y.jpg" alt="glow" border="0"></a>
+<a href="https://files.catbox.moe/3isoyr.jpg"><img src="https://files.catbox.moe/3isoyr.jpg" alt="glow" border="0"></a>
 ***
 
 
