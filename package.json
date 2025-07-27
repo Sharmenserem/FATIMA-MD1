@@ -1,7 +1,7 @@
 {
   "name": "FATIMA-MD",
   "version": "1.0.3",
-  "description": "A WhatsApp bot created using Node.js",
+  "description": "A WhatsApp bot created using index.js",
   "main": "start.js",
   "scripts": {
     "start": "pm2 start start.js --deep-monitoring --attach --name FATIMA-MD",
