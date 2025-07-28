@@ -1,6 +1,6 @@
 {
   "name": "FATIMA-MD",
-  "description": "Javascript WhatsApp bot made by Dua Fatima",
+  "description": "Javascript WhatsApp bot made by DUA FATIMA",
   "logo": "https://files.catbox.moe/tdsu0d.jpg",
   "keywords": ["FATIMA-MD"],
   "success_url": "/",
@@ -16,7 +16,7 @@
     "STICKER_NAME": {
       "description": "type your sticker pack name.",
       "required": false,
-      "value": "DUAFATIMA"
+      "value": "DUA FATIMA"
     }, 
       
     "PREFIX": {
@@ -85,20 +85,20 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": DUA FATIMA"
+      "value": "DUA FATIMA"
 }, 
 
     "OWNER_NUMBER": {
       "description": "put the owner number for bot.",
       "required": false,
-      "value": "+923155641171"
+      "value": "923155641171"
 
     }, 
 
     "BOT_NAME": {
       "description": "Type here the bot name.",
       "required": false,
-      "value": "DUA FATIMA"
+      "value": "FATIMA-MD"
 
       }, 
 
@@ -137,7 +137,7 @@
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*DUA , DUA FATIMA*"
+      "value": "*CRESTER DUA FATIMA*"
     },
 
       "DELETE_LINKS": {
@@ -210,5 +210,4 @@
      ],
   "stack": "heroku-24"
 }
-
-    
+  
