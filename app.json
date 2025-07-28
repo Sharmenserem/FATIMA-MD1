@@ -43,7 +43,13 @@
       "required": false,
       "value": "false"  
     },    
-   
+    
+   "AUTO_VOICE": {
+      "description": "Make it true if want automatic voice reply .",
+      "required": true,
+      "value": "false"
+    }, 
+    
     "AUTO_REPLY": {
       "description": "Make it true if you want automatic reply.",
       "required": false,
