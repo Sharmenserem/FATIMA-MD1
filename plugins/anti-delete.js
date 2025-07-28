@@ -36,4 +36,3 @@ async (conn, mek, m, { from, reply, text, isCreator }) => {
         return reply("An error occurred while processing your request.");
     }
 });
-  
