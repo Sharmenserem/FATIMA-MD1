@@ -1,7 +1,7 @@
 {
   "name": "FATIMA-MD",
   "description": "Javascript WhatsApp bot made by DUA FATIMA",
-  "logo": "https://files.catbox.moe/tdsu0d.jpg",
+  "logo": "https://files.catbox.moe/hc962y.jpg",
   "keywords": ["FATIMA-MD"],
   "success_url": "/",
 
@@ -85,7 +85,7 @@
     "OWNER_NAME": {
       "description": "Type Bot Owner Name.",
       "required": false,
-      "value": "DUA FATIMA"
+      "value": "DUA-FARIMA"
 }, 
 
     "OWNER_NUMBER": {
@@ -131,13 +131,13 @@
     "MENU_IMAGE_URL": {
       "description": "add url for mention reply and menu if want.",
       "required": false,
-      "value": "https://files.catbox.moe/tdsu0d.jpg"
+      "value": "https://files.catbox.moe/hc962y.jpg"
     },
     
      "DESCRIPTION": {
       "description": "add caption for menu and other",
       "required": false,
-      "value": "*CRESTER DUA FATIMA*"
+      "value": "*CRESTER Dua Fatima*"
     },
 
       "DELETE_LINKS": {
